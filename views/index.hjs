@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{{ title }}</title>
+  <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+
+  <h1>
+    <a href="https://assistant.google.com/services/invoke/uid/0000006173f227d7?hl=en">
+      What's my zodiac sign deep link #1
+    </a>
+    </br> </br>
+    <a href="https://assistant.google.com/services/invoke/uid/0000006173f227d7?intent=WhatsApp&hl=en ">
+      What's my zodiac sign deep link #2
+    </a>
+  </h1>
+</body>
+
+</html>
